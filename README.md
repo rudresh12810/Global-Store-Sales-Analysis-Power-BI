@@ -99,12 +99,12 @@ This analysis provides a comprehensive overview of the Superstore's sales perfor
 __________________________________________________________________________________________
 
 ### Conclusion:
-In conclusion, the Superstore Sales Analysis underscores the pivotal role of Technology, Furniture, and Office Supplies in driving sales. Geographical nuances reveal opportunities for targeted market expansion, particularly in regions with lower market shares. Strategic emphasis on top-performing products, along with prudent management of underperforming items, will be key to achieving sustained profitability. Understanding customer preferences, as evidenced by top customer purchases, forms a critical aspect for fostering long-term success in the retail landscape.
+In conclusion, the Superstore Sales Analysis underscores the pivotal role of Technology, Furniture, and Office Supplies in driving sales. Geographical nuances reveal opportunities for targeted market expansion, particularly in regions with lower market shares. Strategic emphasis on top-performing products, along with prudent management of underperforming items, will be key to achieving sustained profitability. Understanding customer preferences, as evidenced by top customer purchases, forms a critical aspect of fostering long-term success in the retail landscape.
 
 __________________________________________________________________________________________
 
 ### DASHBOARD:
 
-![Dashboard](https://github.com/rudresh12810/Global-Store-Sales-Analysis-Power-BI/assets/76532612/37d88a27-8f85-4dc9-bea1-5c9e27f174e1)
+![Dashboard](https://github.com/rudresh12810/Global-Store-Sales-Analysis-Power-BI/assets/76532612/74fedd42-d0ec-4043-9c19-8c81c9728704)
 
 __________________________________________________________________________________________
